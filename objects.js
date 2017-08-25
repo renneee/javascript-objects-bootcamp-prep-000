@@ -1,4 +1,4 @@
 var playlist = {
-  Kanye West: "Golddigger",
+  Kanye: "Golddigger",
   Kartell: "Morning"
 };
