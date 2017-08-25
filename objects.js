@@ -4,5 +4,3 @@ function updatePlaylist (obj, artist, song) {
   obj[artist]:value
   return obj
 }
-
-
